@@ -1,4 +1,4 @@
-package org.example.oop;
+package org.example.Books;
 
 public enum CoverType {
     PAPERBACK, HARDCOVER;
